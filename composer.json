@@ -1,16 +1,16 @@
 {
     "name": "apophis/gravatar",
     "description": "Only the necessary : import gravatar image/url",
-    "type": "project",
+    "licence": "MIT",
     "authors": [
         {
             "name": "Corentin Gouloumy",
-            "email": "corentin.gouloumy@gmail.com"
+            "email": "corentin.gouloumy@gmail.com",
+	    "homepage": "https://corentingouloumy.com/"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-		"php": ">=5.6.3"
+		"php": ">=5.3.2"
 	},
     "autoload": {
 	"psr-4" : {
