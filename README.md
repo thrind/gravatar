@@ -20,9 +20,9 @@ on your project, use
 $gravatar = \Gravatar\Gravatar::getImage('email@email.com', 80, 'g');
 <img src='$gravatar' />
 ```
-* 1: email : email you want to get url
-* 2: size : 10, 20, 30 or 40 or 400, idk, size of the pic you want
-* 3: rule : see the gravatar.php file, everything is on it
+* 1\email : email you want to get url
+* 2\size : 10, 20, 30 or 40 or 400, idk, size of the pic you want
+* 3\rule : see the gravatar.php file, everything is on it
 
 ## Authors
 
