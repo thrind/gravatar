@@ -1,7 +1,7 @@
 {
     "name": "apophis/gravatar",
     "description": "Only the necessary : import gravatar image/url",
-    "licence": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Corentin Gouloumy",
