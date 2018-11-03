@@ -9,7 +9,7 @@ These instructions will help you install the class on your project and use it.
 
 ### Prerequisites
 
-No one aha, just a recent version of php (but I know you already have this).
+No one aha, just a recent version of php (but I know you already have it).
 
 ### Installing
 
