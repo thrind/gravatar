@@ -1,6 +1,6 @@
 <?php
 
-namespace Thrind\Gravatar;
+namespace Gravatar;
 
         // RATING //
         // from [(https://en.gravatar.com/site/implement/images/)]
