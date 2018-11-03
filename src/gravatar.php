@@ -1,11 +1,6 @@
 <?php
 
-namespace Libs\Thrind\Gravatar;
-
-/**
- * Thrind for cmsproject.com
- * class thrind/gravatar
- */
+namespace Thrind\Gravatar;
 
         // RATING //
         // from [(https://en.gravatar.com/site/implement/images/)]
