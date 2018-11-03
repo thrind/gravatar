@@ -1,5 +1,5 @@
 {
-    "name": "apophis/gravatar",
+    "name": "thrind/gravatar",
     "type": "library",
     "description": "Only the necessary : import gravatar image/url",
     "license": "MIT",
