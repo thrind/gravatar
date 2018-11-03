@@ -19,10 +19,6 @@
 	"psr-4" : {
 		"Gravatar\\": "/src" 
 		}
-	},
-    "extra": {
-	"branch-alias": {
-		"dev-develop": "0.1-dev"
 	}
     }
 }
