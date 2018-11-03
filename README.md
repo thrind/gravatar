@@ -1,4 +1,4 @@
-# thrind/
+### thrind/
 # .......Gravatar
 
 If you want to get your Gravatar url with one easy function and for every account in your project, this is for you.
