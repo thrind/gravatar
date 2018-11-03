@@ -16,7 +16,7 @@ No one aha, just a recent version of php (but I know you already have this).
 use `composer require thrind/gravatar`
 
 on your project, use `\Gravatar\Gravatar::getImage('email', size, rule);`
-(I put it on <img src='$gravatar' />)
+(I put it on `<img src='$gravatar' />`)
 -- email : email you want to get url
 -- size : 10, 20, 30 or 40 or 400, idk, size of the pic you want
 -- rule : see the gravatar.php file, everything is on it
