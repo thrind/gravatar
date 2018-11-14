@@ -16,6 +16,6 @@ namespace Gravatar;
         $size = '?s='.$size;
         $rating = '&r='.$rating;
         $link = 'https://www.gravatar.com/avatar/'.$hash.$ext.$size.$rating;
-        echo $link;
+        return $link;
      }
  }
