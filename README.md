@@ -17,11 +17,9 @@ use `composer require thrind/gravatar`
 
 on your project, use 
 ```
-echo "<img src='";
-$gravatar = \Gravatar\Gravatar::getImage('email@email.com', 80, 'g');
-echo "'/>";
+$gravatar = new Gravatar\Gravatar;
+$gravatar = $gravatar->getImage('email', null, 'g');
 ```
-I will improve integration soon, be patient
 
 * 1\email : email you want to get url
 * 2\size : 10, 20, 30 or 40 or 400, idk, size of the pic you want
